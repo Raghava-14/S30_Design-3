@@ -1,5 +1,5 @@
-//Time = 
-//Space = 
+//Time = O(n)
+//Space = O(1)
 
 /**
  * // This is the interface that allows for creating nested lists.
